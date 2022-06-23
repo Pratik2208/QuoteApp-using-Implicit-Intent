@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quote App</string>
+    <string name="quote">Never be afraid to raise your voice for honesty and truth</string>
+    <string name="truthquote">Truth Quote</string>
+</resources>
